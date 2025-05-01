@@ -1,2 +1,8 @@
 site_name: vendy-cli
-theme: readthedocs
+site_url: https://photosojourn.github.io/vendy-cli-docs/
+theme: 
+  name: material
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption

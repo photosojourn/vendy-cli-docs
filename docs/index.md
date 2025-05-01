@@ -1,7 +1,6 @@
 # Welcome to Vendy
 
-<!-- markdownlint-disable-next-line -->
-<center>![Vendy Logo](img/favicon.ico "Vendy")</center>
+![Vendy Logo](img/favicon.ico "Vendy"){ align=right }
 
 Vendy is a cli tool designed to make the deployment of scaffolding code in any language easier. Built using CookieCutter the idea is to create a tool which can quickly bootstrap projects not just for Python, but other language based tools such as Terraform or Ansible. The tool was built with two aims, increase speed of engineers when starting projects, and improve alignment with code standards by make use of templates effortless.
 
